@@ -2,6 +2,16 @@
 
 try-golang プロジェクトの姉妹版。通信関連のサンプルが配置されています。
 
+## 参考情報
+
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/index.html)
+- [Socketプログラミング](https://astaxie.gitbooks.io/build-web-application-with-golang/content/ja/08.1.html)
+- [ソケット通信の仕組みをスライド図解と Go 実装でまとめてみる](https://zenn.dev/ganariya/articles/socket-slide-illustration-go-implement)
+- [go-networking](https://github.com/vladimirvivien/go-networking/tree/master)
+- [A Complete Guide to Socket Programming in Go](https://www.kelche.co/blog/go/socket-programming/)
+- [Go 1.18で導入されたnet/netip package](https://zenn.dev/sonatard/articles/92b3ce38e28ee8)
+- [Getting Started with Sockets Concurrently in GoLang](https://dev.to/alicewilliamstech/getting-started-with-sockets-in-golang-2j66)
+
 ## 関連リポジトリ
 
 - [try-golang](https://github.com/devlights/try-golang)
