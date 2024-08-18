@@ -11,6 +11,8 @@ try-golang プロジェクトの姉妹版。通信関連のサンプルが配置
 - [A Complete Guide to Socket Programming in Go](https://www.kelche.co/blog/go/socket-programming/)
 - [Go 1.18で導入されたnet/netip package](https://zenn.dev/sonatard/articles/92b3ce38e28ee8)
 - [Getting Started with Sockets Concurrently in GoLang](https://dev.to/alicewilliamstech/getting-started-with-sockets-in-golang-2j66)
+- [初心者でも簡単！Go言語でnet.Dial()関数をマスターする6つの方法](https://jp-seemore.com/sys/23285/)
+- [Go言語を使ったTCPクライアントの作り方](https://qiita.com/tutuz/items/e875d8ea3c31450195a7)
 
 ## 関連リポジトリ
 
