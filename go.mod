@@ -1,3 +1,3 @@
 module github.com/devlights/try-golang-network
 
-go 1.25
+go 1.26
